@@ -9,4 +9,6 @@ __pycache__/
 *.pyc
 env/
 venv/
-musdb18
+
+test
+train
